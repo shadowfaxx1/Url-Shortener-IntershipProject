@@ -1,0 +1,33 @@
+Thank you for filling out a Git bug report!
+Please answer the following questions to help us understand your issue.
+
+What did you do before the bug happened? (Steps to reproduce your issue)
+
+What did you expect to happen? (Expected behavior)
+
+What happened instead? (Actual behavior)
+
+What's different between what you expected and what actually happened?
+
+Anything else you want to add:
+
+Please review the rest of the bug report below.
+You can delete any lines you don't wish to share.
+
+
+[System Info]
+git version:
+git version 2.41.0.windows.1
+cpu: x86_64
+built from commit: ff94e79c4724635915dbb3d4ba38f6bb91528260
+sizeof-long: 4
+sizeof-size_t: 8
+shell-path: /bin/sh
+feature: fsmonitor--daemon
+uname: Windows 10.0 22621 
+compiler info: gnuc: 13.1
+libc info: no libc information available
+$SHELL (typically, interactive shell): <unset>
+
+
+[Enabled Hooks]
